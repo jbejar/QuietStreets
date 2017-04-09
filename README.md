@@ -13,3 +13,5 @@ Userscript To Check Neighborhoods for crime around addresses appearing in popula
   * Click on file you want to Install, e.g. [Hotels.com](https://github.com/jbejar/QuietStreets/blob/master/userscripts/QuietStreets%20-%20Hotels.com.user.js)
   * Click on ["Raw"](https://github.com/jbejar/QuietStreets/raw/master/userscripts/QuietStreets%20-%20Hotels.com.user.js)
   * Click install inside the Tampermonkey plugin ![screenshot](install.png)
+3. Navigate to the website, and you should see the embedded [CrimeReports.com](http://www.crimereports.com) map
+  * ![screenshot](hotels.png)
