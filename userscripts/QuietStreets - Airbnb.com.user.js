@@ -14,7 +14,8 @@ $(document).ajaxStop(function () {
     if(onlyRunOnce) {
         return;
     }
-        var address = $("div.p3-location--map div div span span:nth-child(2):first").text().trim();
+    onlyRunOnce = true
+    var address = $("div.p3-location--map div div span span:nth-child(2):first").text().trim();
     var search = encodeURIComponent(encodeURIComponent(address));
     vals = $("div.location-panel img").attr("src").split(/[=,&]/);
     lat = vals[5];
