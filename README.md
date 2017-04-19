@@ -2,6 +2,7 @@
 
 Userscript To Check Neighborhoods for crime around addresses appearing in popular lodging websites.
 
+### [Video Instructions](https://www.youtube.com/watch?v=IiCdmXEIof4)
 ## Installation
 
 1. Install a Userscript manager for your web browser.
